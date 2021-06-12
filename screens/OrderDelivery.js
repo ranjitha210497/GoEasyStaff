@@ -101,28 +101,10 @@ const styles = StyleSheet.create({
         fontWeight: 600,
         marginTop: 10,
     },
-    loginButton: {
-        backgroundColor: '#833471',
-        paddingVertical: 12,
-        borderRadius: 6,
-        marginTop: 20,
-    },
     loginButtonText: {
         fontSize: 20,
         fontWeight: '500',
         alignSelf: 'center',
-    },
-    loginWithBar: {
-        display: 'flex',
-        flexDirection: 'row',
-        justifyContent: 'center',
-        marginTop: 50,
-    },
-    iconButton: {
-        backgroundColor: '#333',
-        padding: 14,
-        marginHorizontal: 10,
-        borderRadius: 100,
     },
     signUpTextView: {
         marginTop: 40,
